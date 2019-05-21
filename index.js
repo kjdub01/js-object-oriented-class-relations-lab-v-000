@@ -42,5 +42,6 @@ class Trip {
       function(driver) {
         return driver.id === this.driverId;
       }.bind(this)
+    );
   }
 }
