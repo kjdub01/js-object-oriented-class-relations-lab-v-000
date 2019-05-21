@@ -12,7 +12,7 @@ class Driver {
   trips() {
     return store.trips.filter(
       function(trip) {
-        return 
+        return trip.tripId === 
       }
     );
   }
