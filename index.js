@@ -9,7 +9,9 @@ class Driver {
     
     store.drivers.push(this);
   }
-  trips() 
+  trips() {
+    
+  }
   
   passengers() {
     return store.passengers.filter(
