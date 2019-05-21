@@ -16,15 +16,8 @@ class Driver {
   }
   
   passengers() {
-    return store.passengers.filter(
-      function(passenger) {
-        return trip.
-      }  
-    );
     
   }
-  
-}
 
 let passengerId = 0;
 
