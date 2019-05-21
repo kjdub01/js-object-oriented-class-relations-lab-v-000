@@ -38,6 +38,6 @@ class Trip {
   }
   
   driver() {
-    
+    return store.
   }
 }
