@@ -38,6 +38,8 @@ class Trip {
   }
   
   driver() {
-    return store.
+    return store.drivers.find() {
+      
+    }
   }
 }
