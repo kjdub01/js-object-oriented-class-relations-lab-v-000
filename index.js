@@ -11,8 +11,10 @@ class Driver {
   }
   trips() {
     return store.trips.filter(
-      
-      );
+      function(trip) {
+        
+      }
+    );
   }
   
   passengers() {
